@@ -25,7 +25,7 @@ const bot = mineflayer.createBot({
   host: 'SavageNations.aternos.me', 
   version: '1.16.5', // U can replace with 1.16.5 for example, remember to use ', = '1.16.5'
   username: 'Bot', 
-  port: 33133, 
+  port: 18979, 
   plugins: [AutoAuth],
   AutoAuth: 'bot112022'
 })
